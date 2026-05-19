@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(165, 113, 214);
+}
+
+ol{
+    color:hsl(52, 93%, 47%);
+}
+
+ul{
+    color:gold;
+}
+
+dl{
+    color:gold;
+}
+
+li{
+    font-size: 15px
+}
+
+.div1{
+    background-color: gold;
+}
+
+.div_pai{
+    background-color: cadetblue;
+
+}
+
+.div2{
+    border:1px solid white;
+    background-color: blue;
+}
+ .div3{
+    border: 1px solid purple;
+    background-color: crimson;
+    display:inline-block;
+ }

@@ -1,0 +1,52 @@
+.container{
+    width: 400px;
+    height: 200px;
+    background-color: gold;
+}
+
+
+h1{
+    background-color: darkmagenta;
+}
+
+.texto_h1{
+    color: gold;
+}
+
+p{
+    font-size: 40px;
+}
+
+.p1{
+    color: darkgoldenrod;
+}
+
+.p2{
+    color: blueviolet;
+}
+
+.t1{
+    font-size: 50px;
+}
+
+.div2{
+    color: blue;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(112, 139, 189);
+}
+
+#id_div1{
+    background-color: crimson;
+    color: brown;
+}
+
+.botao{
+    background-color: blueviolet;
+    color: aqua;
+    width: 200px;
+    height: 60px;
+    border-radius: 22px;
+    border: none;
+    font-size: 30px;
+}
